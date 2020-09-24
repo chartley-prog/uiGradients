@@ -1532,5 +1532,9 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+    {
+        "name": "Customer Value",
+        "colors": ["#34B3B8", "#323F4D"]
     }
 ]
