@@ -1536,5 +1536,9 @@
     {
         "name": "Customer Value",
         "colors": ["#34B3B8", "#323F4D"]
+    },
+    {
+      "name": "TNLHeader",
+      "colors": ["#5768F3", "#1C45EF"]
     }
 ]
